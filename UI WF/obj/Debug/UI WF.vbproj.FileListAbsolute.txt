@@ -1,0 +1,89 @@
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\UI WF.exe.config
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\UI WF.exe
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\UI WF.pdb
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\UI WF.xml
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\BLL.dll
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\DAL.dll
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\BLL.pdb
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\BLL.xml
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\DAL.pdb
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\bin\Debug\DAL.xml
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.AssemblyReference.cache
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.Resources.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.GenerateResource.cache
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.CopyComplete
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.exe
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.xml
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI WF.pdb
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UICliente.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIMenu.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIProducto.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIClienteInfo.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIProductoInfo.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVenta.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVentaInfo.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVentaCancelar.resources
+C:\Users\elmus\source\repos\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIEstadisticas.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.exe.config
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.exe.manifest
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.application
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.exe
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.pdb
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\UI WF.xml
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\BLL.dll
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\DAL.dll
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\BLL.pdb
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\BLL.xml
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\DAL.pdb
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\bin\Debug\DAL.xml
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.AssemblyReference.cache
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.SuggestedBindingRedirects.cache
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UICliente.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.Resources.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIClienteInfo.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIEstadisticas.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIMenu.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIProducto.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIProductoInfo.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVenta.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVentaCancelar.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI_WF.UIVentaInfo.resources
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.GenerateResource.cache
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.exe.manifest
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.application
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.vbproj.CopyComplete
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.exe
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.xml
+C:\Users\elmus\Desktop\Examen\TacticaSoftExamen\UI WF\obj\Debug\UI WF.pdb
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.exe.config
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.exe.manifest
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.application
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.exe
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.pdb
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\UI WF.xml
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\BLL.dll
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\DAL.dll
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\BLL.pdb
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\BLL.xml
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\DAL.pdb
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\bin\Debug\DAL.xml
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.vbproj.AssemblyReference.cache
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UICliente.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.Resources.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIEstadisticas.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIMenu.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIProducto.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIVenta.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIVentaCancelar.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI_WF.UIVentaInfo.resources
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.vbproj.GenerateResource.cache
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.vbproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.exe.manifest
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.application
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.vbproj.CopyComplete
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.exe
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.xml
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.pdb
+C:\Users\elmus\Desktop\Examen\Codigo\UI WF\obj\Debug\UI WF.vbproj.SuggestedBindingRedirects.cache
